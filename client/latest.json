@@ -1,8 +1,15 @@
 {
-  "version": "1.1.17",
-  "file": "MONI-Setup-1.1.17.exe",
-  "sha256": "a56e2f0d4989fce1ab8ec5db5ae2f6457d2e2da174ba53c7a3f910e0b527bf12",
-  "date": "2026-11-21T17:20:14.030Z",
-  "sig": "siL5MxRW/uCgXWoUX56XBVHOrrACQny4cTf6H/j2GSmKj85aIHZFoT1zVr1NPfNjeQdIk9fjX7MiRsGT4dApAA==",
-  "url": "https://github.com/Mathijzi/Moni-Updater/releases/download/client-1.1.17/MONI-Setup-1.1.17.exe"
+  "version": "1.1.18",
+  "file": "MONI-Setup-1.1.18.exe",
+  "sha256": "2d7e07b9ff3707cecb61d828227787179908118cb89e365f6b99f0f756acbce7",
+  "date": "2026-11-21T17:37:49.802Z",
+  "sig": "9RfmTbqpDWS/gPZ8YYIE0Wnaz+4JVOk1kJ75uyWzA6e2UhSNaTGuDY/ZV9CYHyUjcYviHfehL/XY/kJJVHNQAQ==",
+  "app": {
+    "file": "MONI-app-1.1.18.zip",
+    "sha256": "90a0f86eae2bb2b3bc67057a57b5fd85f1dc0633219093c61edec3015afc0164",
+    "base": "673517e16b972bf37447623721ef7c09334837e51b986a75cf353ee22a416f27",
+    "sig": "hMAH1ne25sMXV/n7iKClMa/P+9r91NYQJAaW6CscnlxDuqwgC54EVQ1EAXVyEl8i1YrB6yWU4IZoguEugynJDA==",
+    "url": "https://github.com/Mathijzi/Moni-Updater/releases/download/client-1.1.18/MONI-app-1.1.18.zip"
+  },
+  "url": "https://github.com/Mathijzi/Moni-Updater/releases/download/client-1.1.18/MONI-Setup-1.1.18.exe"
 }
