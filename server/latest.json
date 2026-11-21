@@ -1,7 +1,8 @@
 {
-  "version": "1.1.13",
-  "file": "MONI-Server-Setup-1.1.13.exe",
-  "sha256": "01251babdcc710195545f43ed770535ce90c5e750a3a4bd8cc006524c8f37cf6",
-  "date": "2026-11-21T16:44:46.362Z",
-  "url": "https://github.com/Mathijzi/Moni-Updater/releases/download/server-1.1.13/MONI-Server-Setup-1.1.13.exe"
+  "version": "1.1.14",
+  "file": "MONI-Server-Setup-1.1.14.exe",
+  "sha256": "a4c5c66436af30bb59ef618a10043b497c687c5076c5527b61d6820886ac5763",
+  "date": "2026-11-21T17:05:39.494Z",
+  "sig": "fqnTaCajuy/CrdJvfWWTzHxQ2gSGhrtiUeObRu3+KgFL1CcJkIOdXFRJe34jZbXgWViibHXn0STaKH3dYuFBAA==",
+  "url": "https://github.com/Mathijzi/Moni-Updater/releases/download/server-1.1.14/MONI-Server-Setup-1.1.14.exe"
 }
