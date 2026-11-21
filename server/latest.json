@@ -1,15 +1,15 @@
 {
-  "version": "1.1.17",
-  "file": "MONI-Server-Setup-1.1.17.exe",
-  "sha256": "21b7e5c935337256b32a8e677faadf1130385464dfce81d057191c9f2eccdf1d",
-  "date": "2026-11-21T19:04:32.527Z",
-  "sig": "zdw+EtXd2rRuXHf4WqsOyCJR7R2LqPKfmM4fY8S6mXIxwlC3kGmDJy+ycLL9DIWds+1CLqnFtEf07hTn8KdvDQ==",
+  "version": "1.1.18",
+  "file": "MONI-Server-Setup-1.1.18.exe",
+  "sha256": "9b9e3f8d3c054e7c6d44d21b4b871dfbe8d550564ba92f23549d9323f32db869",
+  "date": "2026-11-21T19:28:59.850Z",
+  "sig": "ypJGuxmYB4jZ517YUlkHoEwOb5jHNH87Xa7JkdeiRZDiPuUW5fnvIwH7Rjw7ZFDzFUA1VoypAS8N7JQPWXDvCQ==",
   "app": {
-    "file": "MONI-Server-app-1.1.17.zip",
-    "sha256": "89be7f71f1d884a02814f64f741ce77e55f886990b1391540a49d4221330db74",
+    "file": "MONI-Server-app-1.1.18.zip",
+    "sha256": "df2421811cf4ff1c6530ea41a57c889ebaf65593707af2f8afa758d9d3797b0c",
     "base": "3b734cee8dcbd05fb00f80899e92a5b1a760b3c884fa8246e2bc3e9571afb76c",
-    "sig": "p3VX5uRQ6hdSo26kMUSP6lAY+/QZnjX0mgohJQsOa3MY46bns4ih8/aGv0EwwEIkx6uVqkWWrezEKnSKhSXfDQ==",
-    "url": "https://github.com/Mathijzi/Moni-Updater/releases/download/server-1.1.17/MONI-Server-app-1.1.17.zip"
+    "sig": "2bW8D4E+9Dudg8qqwj5j54TqtZP/d6FekTtG1Xjv6kxBBSzQk2yZdBeRsVWpQJDZ8LtdiylpiQCJZqc0SpkbAQ==",
+    "url": "https://github.com/Mathijzi/Moni-Updater/releases/download/server-1.1.18/MONI-Server-app-1.1.18.zip"
   },
-  "url": "https://github.com/Mathijzi/Moni-Updater/releases/download/server-1.1.17/MONI-Server-Setup-1.1.17.exe"
+  "url": "https://github.com/Mathijzi/Moni-Updater/releases/download/server-1.1.18/MONI-Server-Setup-1.1.18.exe"
 }
