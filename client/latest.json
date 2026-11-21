@@ -1,7 +1,7 @@
 {
-  "version": "1.1.10",
-  "file": "MONI-Setup-1.1.10.exe",
-  "sha256": "5f5406e025d230ba9668e4752314aa47ed9fbab068f34d1021c8c367916d5030",
-  "date": "2026-11-21T05:19:43.729Z",
-  "url": "https://github.com/Mathijzi/Moni-Updater/releases/download/client-1.1.10/MONI-Setup-1.1.10.exe"
+  "version": "1.1.11",
+  "file": "MONI-Setup-1.1.11.exe",
+  "sha256": "f9c1710404e485aa51b149ea52f973af12ef8ef739408f78119510cb54a83cf1",
+  "date": "2026-11-21T06:07:34.006Z",
+  "url": "https://github.com/Mathijzi/Moni-Updater/releases/download/client-1.1.11/MONI-Setup-1.1.11.exe"
 }
